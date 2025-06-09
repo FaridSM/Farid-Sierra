@@ -1,4 +1,4 @@
-<h1>Hi, I'm Farid! <br/><a href="https://github.com/FaridSM">Programmer</a>, <a href="https://www.linkedin.com/in/farid-eduardo-sierra-m%C3%A9ndez-731461196/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/FaridSM">And Frontend Specialist</a></h1>
+<h1>Hi, I'm Farid! <br/><a href="https://github.com/FaridSM">Programmer Automation & Machine Learning </a>, <a href="https://www.linkedin.com/in/farid-eduardo-sierra-m%C3%A9ndez-731461196/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/FaridSM">And Frontend Specialist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
